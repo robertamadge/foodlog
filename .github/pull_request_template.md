@@ -8,12 +8,12 @@
 # Mentions
 - Name of the people responsible for reviewing proposed changes.
 
-# Additional Info
-- Additional information or context.
-
 # Checklist
 - [X] Tested changes;
 - [ ] Documentation.
 
 # Screenshots
-- The original and the updated:
+- Optional.
+
+# Additional Info
+- Additional information or context.
