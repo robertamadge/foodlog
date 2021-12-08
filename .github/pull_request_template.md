@@ -1,7 +1,3 @@
-# Summary
-- Provide an overview.
-
-
 # Related Issue
 - Describe the issue here.
 
@@ -21,9 +17,3 @@
 
 # Screenshots
 - The original and the updated:
-
-| Original |    Updated    | 
-|----------|:-------------:|
-|          |               |
-|          |               |
-|          |               | 
