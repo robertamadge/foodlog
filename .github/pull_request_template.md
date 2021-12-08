@@ -1,16 +1,22 @@
+# Summary
+- Provide an overview.
+
+
 # Related Issue
-- issue goes here.
+- Describe the issue here.
 
 # Proposed Changes
-- change 1;
-- change 2.
+- Change 1;
+- Change 2.
+
+# Mentions
+- Name of the people responsible for reviewing proposed changes.
 
 # Additional Info
-- any additional information or context.
+- Additional information or context.
 
 # Checklist
-- [X] Tests;
-- [ ] Translations;
+- [X] Tested changes;
 - [ ] Documentation.
 
 # Screenshots
