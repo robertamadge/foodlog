@@ -1,22 +1,25 @@
-# Jira's Task Number/Link: [FF- XXX]
+# Jira's Task Number: [FF-###]()
 
 # Related Issue
-- Describe the issue here.
+- Describe the issue here
 
-# Proposed Changes
-- Change 1;
-- Change 2.
+# Changes
+- Changes on resource A
+- Refactor at component B
+- Fix the component C
 
 # Mentions
-- Name of the people responsible for reviewing proposed changes.
+- Name of the people responsible for reviewing proposed changes
 
 # Checklist
-- [X] Tested changes;
-- [ ] Documentation.
+- [ ] Tested changes
+- [ ] Documentation
 
 # Screenshots
 - Optional.
 
 # Additional Info
 - Additional information or context;
-- Additional links .
+- Additional links
+    - [URL 1]()
+    - [URL 2]()
